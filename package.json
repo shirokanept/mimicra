@@ -1,0 +1,8 @@
+{
+  "name": "mimicra",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -F face-tracker dev",
+    "build": "pnpm -F face-tracker build"
+  }
+}
